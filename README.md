@@ -55,9 +55,9 @@ Scroll Based front end website.
 ---
 
 ## 📌 Featured Project
-### ☕ Velmora Coffee
-A frontend web project showcasing a modern coffee shop experience.  
-🔗 [View Repository](https://github.com/muhammadzamran/velora-coffee)
+### Cipherly by Zamranqazi
+A frontend web project, Cipher text into plain text using Ceaser Cipher, ROT 13 , Rail Fence Concept.
+🔗 [View Repository](https://github.com/muhammadzamran/)
 
 ---
 
