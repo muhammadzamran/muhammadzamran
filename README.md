@@ -7,9 +7,14 @@
 ---
 
 ## 🚀 What I'm Working On
-- 📚 Deepening my knowledge in **AI & Machine Learning**
+- 📚 Deepening my knowledge in **AI & Web Development**
 - 💻 Building my frontend development skills
-- ☕ Developed **Velmora Coffee** — a frontend web project
+Developed,
+-A Comic Book The Last signal
+Scroll Based front end website.
+-Cipherly Encryption and Decryption plain text into Cipher text.
+- Further Making my grip into more projects
+
 
 ---
 
