@@ -57,7 +57,7 @@ Scroll Based front end website.
 ## 📌 Featured Project
 ### Cipherly by Zamranqazi
 A frontend web project, Cipher text into plain text using Ceaser Cipher, ROT 13 , Rail Fence Concept.
-🔗 [View Repository](https://github.com/muhammadzamran/)
+🔗 [View Repository](https://github.com/muhammadzamran/Cipherly-)
 
 ---
 
