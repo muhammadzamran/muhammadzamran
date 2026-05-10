@@ -2,7 +2,7 @@
 
 🎓 Computer Science Engineering Student  
 🤖 Passionate about Artificial Intelligence & Web Development
-🌱 Currently in a learning phase — growing every day!
+  Currently in a learning phase — growing every day!
 
 ---
 
